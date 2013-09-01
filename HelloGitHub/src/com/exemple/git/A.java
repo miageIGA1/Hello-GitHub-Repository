@@ -5,6 +5,7 @@ package com.exemple.git;
 
 
 /* 2éme commentaire */
+
 public class A {
 
 	/**
