@@ -2,6 +2,9 @@ package com.exemple.git;
 
 
 /* 1er commentaire */
+
+
+/* 2éme commentaire */
 public class A {
 
 	/**
