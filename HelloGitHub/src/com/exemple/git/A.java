@@ -4,7 +4,10 @@ package com.exemple.git;
 /* 1er commentaire */
 
 
-/* 2éme commentaire */
+/* 2ï¿½me commentaire */
+
+
+/* 3ï¿½me commentaire */
 
 public class A {
 
